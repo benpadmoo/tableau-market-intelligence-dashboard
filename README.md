@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="tableau-dashboard.png" alt="Great Lakes Auto Parts Executive Overview" width="850">
+  <img src="dashboard-preview.png" alt="Great Lakes Auto Parts Executive Overview" width="850">
 </p>
 
 <p align="center"><em>Executive overview — revenue trends, plant production, customer concentration, and OEM/Aftermarket mix on a single page.</em></p>
@@ -84,7 +84,7 @@ Built on a sales dataset with the following key fields:
 ```
 tableau-market-intelligence-dashboard/
 ├── MKT Market Intelligence Report.pdf   Full 9-page Tableau report
-├── tableau-dashboard.png                 Executive overview preview image
+├── dashboard-preview.png                 Executive overview preview image
 └── README.md                             This file
 ```
 
